@@ -1,0 +1,18 @@
+{
+  "name": "heroku-gulp-boilerplate",
+  "version": "0.0.0",
+  "homepage": "",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "react": "~0.13.1"
+  },
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "velocity": "~1.2.2",
+    "jquery.easing": "~1.3.1",
+    "lo": "~1.0.1"
+  }
+}
