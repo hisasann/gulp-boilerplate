@@ -1,5 +1,6 @@
 module.exports = {
   browserSync:
+    port: 4567
     server:
       baseDir: './build'
   browserify: [
